@@ -25,7 +25,8 @@ It compares the time taken by the different algorithm for sorting the array.
 - Javascript
 - DSA Concepts
 
----
+---![Screenshot (902)](https://user-images.githubusercontent.com/98165185/163661930-7dc321de-9e24-4c3d-a039-2e76a5c5553e.png)
+
 
 
 
