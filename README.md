@@ -1,4 +1,8 @@
-# SortVisualizer
+# Sort Visualizer
+
+
+
+
 ## Description
 
 This project is basically Visual form of sorting and user can visually experience how the sorting goes on. 
@@ -22,3 +26,6 @@ It compares the time taken by the different algorithm for sorting the array.
 - DSA Concepts
 
 ---
+
+
+
